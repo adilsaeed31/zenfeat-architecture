@@ -40,7 +40,7 @@
 - Challenges may include network errors or server delays. Handling these involves providing appropriate error messages to the user and having mechanisms to retry the action.
 
 **4. Real-time Updates:**
-- Real-time updates can be achieved using technologies like WebSocket, and Server-Sent Events (SSE) or libraries such as Firebase Realtime Database. These technologies enable the server to push updates to the client when there are changes in the feed.
+- Real-time updates can be achieved using technologies like WebSocket, and Server-Sent Events (SSE) or libraries such as Apache Kafka, Pub/Sub, and Firebase Realtime Database. These technologies enable the server to push updates to the client when there are changes in the feed.
 
 - Consideration should be given to handling multiple updates simultaneously and ensuring data consistency across clients.
 
