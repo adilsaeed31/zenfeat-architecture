@@ -53,4 +53,4 @@
 **6. TypeScript Usage:**
 - TypeScript would benefit by providing a statically-typed development environment, catching potential errors early in the development process.
 
-- Interfaces and types can be used to define the shape of data structures, enhancing code readability and maintainability.
+- Interfaces and types can be used to define the shape of data structures, enhancing code readability and maintainability. (Please see the above Typescript interface example)
