@@ -2,8 +2,9 @@
 
 **1. Data Structure:**
 - I would design the post data structure with properties like `postId`, `content`, `author`, `timestamp`, `likes`, and `comments`. The `author` property could be an object representing the user who created the post.
-  
-  ```typescript example
+
+  Typescript Interface Example
+  ```typescript
   interface Post {
     postId: string;
     content: string;
